@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivana. Thank You for taking the time to view my GitHub Profile :smile: </h1>
+<h1 align="center">Hi 👋, I'm Ivana Spinoso </h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
 <h2> About Me</h2>
