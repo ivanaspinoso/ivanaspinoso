@@ -10,6 +10,12 @@
 
     I look forward to connecting with you! Feel free to contact me
   - 📫 How to reach me **sivana361@gmail.com**
+ 
+- 🌱 ¡Hola! Soy Ivana, una desarrolladora Full Stack de Bahia Blanca, Argentina, con experiencia en frontend y backend. Me destaco en JavaScript, React, Redux, NodeJS y Express, y he trabajado con PostgreSQL. Me encanta aprender y enfrentar nuevos desafíos. 
+
+Además, soy diseñadora UX/UI, especializada en crear experiencias digitales efectivas y satisfactorias. Me apasiona la investigación de usuarios, la creación de prototipos y el diseño visual. Siempre busco proyectos desafiantes para seguir creciendo profesionalmente.
+
+¡Espero conectarme contigo! No dudes en contactarme en sivana361@gmail.com.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
