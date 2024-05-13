@@ -3,19 +3,23 @@
 
 <h2> About Me</h2>
 
-- 🌱 Hi! I'm Ivana Spinoso, a Full Stack developer from Bahía Blanca, Argentina, with experience in both frontend and backend development. I excel in JavaScript, React, Redux, NodeJS, and Express, and have worked with PostgreSQL. I enjoy learning and taking on new challenges.
+- 🌱 Hi! I'm Ivana Spinoso, a Full Stack developer from Bahía Blanca, Argentina, with experience in both frontend and backend development. I excel in JavaScript, React, Redux, 
+     NodeJS, and Express, and have worked with PostgreSQL. I enjoy learning and taking on new challenges.
 
-    Additionally, I'm a UX/UI designer, specialized in creating effective and satisfying digital experiences. I'm passionate about user research, prototyping and visual design. I'm always looking for challenging projects to continue growing 
-    professionally.
+     Additionally, I'm a UX/UI designer, specialized in creating effective and satisfying digital experiences. I'm passionate about user research, prototyping and visual design. 
+     I'm  always looking for challenging projects to continue growing 
+     professionally.
 
-    I look forward to connecting with you! Feel free to contact me
-  - 📫 How to reach me **sivana361@gmail.com**
+     I look forward to connecting with you! Feel free to contact me
+- 📫 How to reach me **sivana361@gmail.com**
  
-- 🌱 ¡Hola! Soy Ivana, una desarrolladora Full Stack de Bahia Blanca, Argentina, con experiencia en frontend y backend. Me destaco en JavaScript, React, Redux, NodeJS y Express, y he trabajado con PostgreSQL. Me encanta aprender y enfrentar nuevos desafíos. 
+- 🌱 ¡Hola! Soy Ivana, una desarrolladora Full Stack de Bahia Blanca, Argentina, con experiencia en frontend y backend. Me destaco en JavaScript, React, Redux, NodeJS y Express, y 
+     he trabajado con PostgreSQL. Me encanta aprender y enfrentar nuevos desafíos. 
 
-Además, soy diseñadora UX/UI, especializada en crear experiencias digitales efectivas y satisfactorias. Me apasiona la investigación de usuarios, la creación de prototipos y el diseño visual. Siempre busco proyectos desafiantes para seguir creciendo profesionalmente.
+     Además, soy diseñadora UX/UI, especializada en crear experiencias digitales efectivas y satisfactorias. Me apasiona la investigación de usuarios, la creación de prototipos y 
+     el diseño visual. Siempre busco proyectos desafiantes para seguir creciendo profesionalmente.
 
-¡Espero conectarme contigo! No dudes en contactarme en sivana361@gmail.com.
+- 📫 ¡Espero conectarme contigo! No dudes en contactarme en sivana361@gmail.com.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
